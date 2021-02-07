@@ -103,22 +103,22 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: brain_Color_1
-    second: {fileID: 2800000, guid: cdc6e22b557548a419f65d7056ea8937, type: 3}
+    second: {fileID: 2800000, guid: bc5843f64d0affb42a22d0ffc7e00998, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: carpet
-    second: {fileID: 2800000, guid: d07dff89d1f255c43ac3d296eed62d86, type: 3}
+    second: {fileID: 2800000, guid: 2967009db3e668b429f5b8b6ec4cf54a, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: eye_Color_1
-    second: {fileID: 2800000, guid: 2831909ef4ceae84bb32487dc7af1cc7, type: 3}
+    second: {fileID: 2800000, guid: a9e3664d4b1dec84880fb79e884ffec8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: eye_Reflect_1
-    second: {fileID: 2800000, guid: f9174a4e08ae65448b20a03188e226aa, type: 3}
+    second: {fileID: 2800000, guid: fe14b970c0118fa4d9b48532f885837f, type: 3}
   materials:
     materialImportMode: 1
     materialName: 0
