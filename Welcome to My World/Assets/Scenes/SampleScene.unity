@@ -3047,6 +3047,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 870044666}
+  - component: {fileID: 870044667}
   m_Layer: 14
   m_Name: clouds layer02
   m_TagString: Untagged
@@ -3076,6 +3077,25 @@ Transform:
   m_Father: {fileID: 954496008}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &870044667
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 870044665}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f4be40a52d866164c92570afd9d46097, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &872744184
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5380,6 +5400,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1675475584}
+  - component: {fileID: 1675475585}
   m_Layer: 14
   m_Name: clouds layer01
   m_TagString: Untagged
@@ -5413,6 +5434,25 @@ Transform:
   m_Father: {fileID: 954496008}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1675475585
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675475583}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9c353fdc4af83f9428ff12d0ab2d438c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1688399774
 GameObject:
   m_ObjectHideFlags: 0
